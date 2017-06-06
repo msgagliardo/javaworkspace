@@ -1,0 +1,62 @@
+# ignore all document files #
+#############################
+*.doc
+*.odt
+*.pdf
+*.docx
+
+# ignore all image files #
+##########################
+*.jpg
+*.jpeg
+*.png
+*.PNG
+
+# packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# logs and databases #
+######################
+*.log
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# compiled files #
+##################
+*.class
+*.exe
+
+# eclipse specific #
+####################
+.classpath
+.project
+.metadata
+.recommenders
+.settings
+
+# ignored directories #
+#######################
+bin/
+algorithms/
+BeginningJava/
+test/
+DataStructuresText/
+genericspractice/
+edu/
+practice/
+
