@@ -4,6 +4,7 @@
 *.odt
 *.pdf
 *.docx
+*.txt
 
 # ignore all image files #
 ##########################
@@ -49,15 +50,23 @@ Thumbs.db
 .recommenders
 .settings
 
+# IntelliJ specific #
+#####################
+.iml
+
+
 # ignored directories #
 #######################
+.idea/
+out/
 bin/
 algorithms/
 BeginningJava/
-test/
-DataStructuresText/
-genericspractice/
-edu/
-practice/
+playground/
+DataStructuresText/src/chapter9trees/
+DataStructuresText/src/chapter10treeprojects/
+DataStructuresText/src/chapter14graphs/
+DataStructuresText/src/searching/
+DataStructuresText/res/
 DataStructures1/
 
