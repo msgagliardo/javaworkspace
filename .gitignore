@@ -52,7 +52,7 @@ Thumbs.db
 
 # IntelliJ specific #
 #####################
-.iml
+*.iml
 
 
 # ignored directories #
